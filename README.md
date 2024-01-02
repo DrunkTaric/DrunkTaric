@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!!</h1>
+<h1 align="center">Welcome to my profile</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Languages</h3>
+<h3 align="center">📕 Languages</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">Technology</h3>
+<h3 align="center">🛠 Technology</h3>
 
 ###
 
@@ -42,13 +42,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
